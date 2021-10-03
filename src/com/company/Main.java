@@ -19,6 +19,7 @@ public class Main {
     ToolSub ToolSub2=new ToolSub("Инструмент4",16,500,10.1,2.0,6.0,14,50,-10);
 
     System.out.print("");
+    System.out.print("");
         //Вывод до изменения
         System.out.println("До изменения: \n" + "Заказ на: " + Tool1.getToolName() + "\nВес: "
                 + Tool1.getToolWeight() + "\nЦена: " + Tool1.getToolPrice() + "\nНапряжение: " + Tool1.getToolVoltage()
